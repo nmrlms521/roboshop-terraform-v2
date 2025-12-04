@@ -25,6 +25,7 @@ variable "components" {
     "cart",
     "user",
     "shipping",
-    "payment"
+    "payment",
+    "test"
   ]
 }
