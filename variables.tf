@@ -21,9 +21,9 @@ variable "components" {
     "mysql",
     "rabbitmq",
     "redis",
-    "catalague",
+    "catalogue",
     "cart",
-    "uaer",
+    "user",
     "shipping",
     "payment"
   ]
